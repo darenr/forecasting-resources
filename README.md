@@ -5,7 +5,7 @@ Just a simple repo of useful links, resources
  - [Need for speed: optimizing Facebook-Prophet fit method to run 20X faster](https://towardsdatascience.com/need-for-speed-optimizing-facebook-prophet-fit-method-to-run-20x-faster-166cd258f456)
  - [TIME SERIES ANALYSIS WITH GENERALIZED ADDITIVE MODELS](https://algobeans.com/2017/04/04/laymans-tutorial-time-series-analysis/)
  - [NeuralProphet](https://neuralprophet.com/quickstart.html)
- - [Prophet - Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality](https://github.com/facebook/prophet)
+ - [Prophet - Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality - Prophet is robust to outliers, missing data, and dramatic changes in your time series.](https://github.com/facebook/prophet)
  - [A Guide to Time Series Forecasting in Python](https://builtin.com/data-science/time-series-forecasting-python)
  - [Endogenous Variable: Definition, Meaning, and Examples](https://www.investopedia.com/terms/e/endogenous-variable.asp)
  - [Time Series Forecasting with Deep Learning and Attention Mechanism](https://towardsdatascience.com/time-series-forecasting-with-deep-learning-and-attention-mechanism-2d001fc871fc)
