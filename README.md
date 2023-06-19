@@ -19,3 +19,4 @@ Just a simple repo of useful links, resources
  - [Kaggle - Store Sales - Time Series Forecasting](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data)
  - [How to Detect Heteroskedasticity in Time Series](https://towardsdatascience.com/how-to-detect-heteroskedasticity-in-time-series-3413a8aa8da9)
  - [Transformers are Effective for Time Series Forecasting](https://huggingface.co/blog/autoformer)
+ - [GluonTS - Probabilistic Time Series Modeling in Python](https://ts.gluon.ai/stable/index.html)
