@@ -25,5 +25,5 @@
 
 ## datasets
 
- - [Tata Stock Data](https://raw.githubusercontent.com/abulbasar/data/master/tcs-stock.csv)
+ - [Tata Stock Data]([https://raw.githubusercontent.com/abulbasar/data/master/tcs-stock.csv](https://raw.githubusercontent.com/darenr/forecasting-resources/main/datasets/tata-stock-price.csv))
  - [Tesla Stock data - noisy)[https://raw.githubusercontent.com/plotly/datasets/master/tesla-stock-price.csv]
