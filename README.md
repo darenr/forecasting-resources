@@ -1,5 +1,6 @@
 # forecasting-resources
-Just a simple repo of useful links, resources
+
+## useful links, resources
 
  - [Predicting the price of Bitcoin with multivariate Pytorch LSTMs](https://charlieoneill.medium.com/predicting-the-price-of-bitcoin-with-multivariate-pytorch-lstms-695bc294130)
  - [Need for speed: optimizing Facebook-Prophet fit method to run 20X faster](https://towardsdatascience.com/need-for-speed-optimizing-facebook-prophet-fit-method-to-run-20x-faster-166cd258f456)
@@ -21,3 +22,8 @@ Just a simple repo of useful links, resources
  - [Transformers are Effective for Time Series Forecasting](https://huggingface.co/blog/autoformer)
  - [GluonTS - Probabilistic Time Series Modeling in Python](https://ts.gluon.ai/stable/index.html)
  - [Time Series Feature Extraction Library](https://tsfel.readthedocs.io/en/latest/descriptions/get_started.html)
+
+## datasets
+
+ - [Tata Stock Data](https://raw.githubusercontent.com/abulbasar/data/master/tcs-stock.csv)
+ - [Tesla Stock data - noisy)[https://raw.githubusercontent.com/plotly/datasets/master/tesla-stock-price.csv]
