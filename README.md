@@ -22,6 +22,8 @@
  - [Transformers are Effective for Time Series Forecasting](https://huggingface.co/blog/autoformer)
  - [GluonTS - Probabilistic Time Series Modeling in Python](https://ts.gluon.ai/stable/index.html)
  - [Time Series Feature Extraction Library](https://tsfel.readthedocs.io/en/latest/descriptions/get_started.html)
+ - [Exploring the LSTM Neural Network Model for Time Series](https://towardsdatascience.com/exploring-the-lstm-neural-network-model-for-time-series-8b7685aa8cf)
+ - [Scalecast](https://github.com/mikekeith52/scalecast)
 
 ## datasets
 
